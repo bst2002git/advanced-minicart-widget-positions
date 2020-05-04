@@ -1,0 +1,1 @@
+# advanced-minicart-widget-positions
