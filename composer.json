@@ -1,5 +1,5 @@
 {
-    "name": "element119/advanced-minicart-widget-positions",
+    "name": "PykettK/advanced-minicart-widget-positions",
     "version": "1.0.0",
     "type": "magento2-module",
     "license": [
@@ -7,19 +7,19 @@
     ],
     "authors":[
         {
-            "name": "Developer",
-            "email": "hello@element119.io"
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
         }
     ],
     "require": {
-        "php": "~7.0|~7.1|~7.2|~7.3"
+        "php": ">=7.0"
     },
     "autoload": {
         "files": [
             "registration.php"
         ],
         "psr-4": {
-            "Element119\\AdvancedMinicartWidgetPositions\\": ""
+            "PykettK\\AdvancedMinicartWidgetPositions\\": ""
         }
     }
 }
