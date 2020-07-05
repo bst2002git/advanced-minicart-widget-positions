@@ -3,6 +3,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'PykettK_AdvancedMinicartWidgetPositions',
+    'Element119_AdvancedMinicartWidgetPositions',
     __DIR__
 );

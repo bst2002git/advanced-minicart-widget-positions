@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">pykettk | Advanced Minicart Widget Positions</h1>
+<h1 align="center">element119 | Advanced Minicart Widget Positions</h1>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 ![magento](https://img.shields.io/badge/Magento-2.3.*-ec6611.svg)
 ![php](https://img.shields.io/badge/PHP->=7.0-5870c7.svg)
 ![license](https://img.shields.io/badge/license-MIT-ff00dd.svg)
-![packagist downloads](https://img.shields.io/packagist/dt/pykettk/advanced-minicart-widget-positions?color=ff0000)
+![packagist downloads](https://img.shields.io/packagist/dt/element119/advanced-minicart-widget-positions?color=ff0000)
 
 </div>
 
@@ -47,8 +47,8 @@
 ## 🔌 Installation
 Run the following command to *install* this module:
 ```bash
-composer install pykettk/advanced-minicart-widget-positions
-php bin/magento module:enable PykettK_AdvancedMinicartWidgetPositions
+composer install element119/advanced-minicart-widget-positions
+php bin/magento module:enable Element119_AdvancedMinicartWidgetPositions
 php bin/magento setup:di:compile
 php bin/magento static:content:deploy
 php bin/magento setup:upgrade --keep-generated
@@ -59,8 +59,8 @@ php bin/magento setup:upgrade --keep-generated
 ## ⏫ Updating
 Run the following command to *update* this module:
 ```bash
-composer update pykettk/advanced-minicart-widget-positions
-php bin/magento module:enable PykettK_AdvancedMinicartWidgetPositions
+composer update element119/advanced-minicart-widget-positions
+php bin/magento module:enable Element119_AdvancedMinicartWidgetPositions
 php bin/magento setup:di:compile
 php bin/magento static:content:deploy
 php bin/magento setup:upgrade --keep-generated
@@ -71,8 +71,8 @@ php bin/magento setup:upgrade --keep-generated
 ## ❌ Uninstallation
 Run the following command to *uninstall* this module:
 ```bash
-composer remove pykettk/advanced-minicart-widget-positions
-php bin/magento module:enable PykettK_AdvancedMinicartWidgetPositions
+composer remove element119/advanced-minicart-widget-positions
+php bin/magento module:enable Element119_AdvancedMinicartWidgetPositions
 php bin/magento setup:di:compile
 php bin/magento static:content:deploy
 php bin/magento setup:upgrade --keep-generated

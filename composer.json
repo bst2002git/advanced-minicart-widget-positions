@@ -1,6 +1,6 @@
 {
-    "name": "pykettk/advanced-minicart-widget-positions",
-    "version": "1.0.3",
+    "name": "element119/advanced-minicart-widget-positions",
+    "version": "1.0.4",
     "type": "magento2-module",
     "license": [
         "proprietary"
@@ -19,7 +19,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "PykettK\\AdvancedMinicartWidgetPositions\\": ""
+            "Element119\\AdvancedMinicartWidgetPositions\\": ""
         }
     }
 }

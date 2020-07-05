@@ -2,7 +2,7 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
-        <referenceBlock name="minicart" template="PykettK_AdvancedMinicartWidgetPositions::cart/minicart.phtml">
+        <referenceBlock name="minicart" template="Element119_AdvancedMinicartWidgetPositions::cart/minicart.phtml">
             <container name="minicart.addons.top" label="Mini-cart top promotion block" before="-" />
         </referenceBlock>
     </body>
