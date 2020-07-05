@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://i.imgur.com/GTsFv5Y.png)
+
+</div>
+
 <h1 align="center">pykettk | Advanced Minicart Widget Positions</h1>
 
 <div align="center">
